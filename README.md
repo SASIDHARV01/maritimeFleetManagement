@@ -2,6 +2,8 @@
 
 **A full-stack, real-time **Maritime Fleet Management System** designed to simulate, track, and manage global naval operations**
 
+**Sample Creds - Email - viewer@gmail.com  , Pass - Viewer@01**
+
 The system features a **live geospatial simulation engine** that navigates vessels autonomously using Bezier curve pathfinding (Turf.js), avoiding landmasses while calculating fuel consumption and weather conditions in real-time.
 
 **🚀 Live Demo** - https://698218a13048b827db52af8b--guileless-pastelito-64a567.netlify.app/
